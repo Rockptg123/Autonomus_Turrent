@@ -7,6 +7,7 @@ The system is capable of detecting, tracking, and engaging targets using compute
 The turret supports both **manual control** and **autonomous vision-based operation**, running on an embedded compute platform with real-time performance constraints.
 
 [![Autonomous Tracking Turret Demo](https://img.youtube.com/vi/QobdRKVzfLg/0.jpg)](https://youtu.be/QobdRKVzfLg)
+📹 **Demo Video:** [Watch on YouTube](https://youtu.be/QobdRKVzfLg)
 
 ---
 
@@ -73,6 +74,7 @@ The turret supports both **manual control** and **autonomous vision-based operat
 
 ### Hardware Setup
 Images of the physical setup, mounting, and turret structure are available
+
 
 
 
