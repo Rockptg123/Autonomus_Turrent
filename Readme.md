@@ -6,7 +6,7 @@ The system is capable of detecting, tracking, and engaging targets using compute
 
 The turret supports both **manual control** and **autonomous vision-based operation**, running on an embedded compute platform with real-time performance constraints.
 
-📹 Demo: `https://youtu.be/QobdRKVzfLg`
+[![Autonomous Tracking Turret Demo](https://img.youtube.com/vi/QobdRKVzfLg/0.jpg)](https://youtu.be/QobdRKVzfLg)
 
 ---
 
@@ -44,7 +44,7 @@ The turret supports both **manual control** and **autonomous vision-based operat
 - Direct user control of turret movement
 - Used for calibration, testing, and safety validation
 
-📹 Demo: `https://youtube.com/shorts/zR4kt2JjodA`
+📹 [Watch Manual Control Demo](https://youtube.com/shorts/zR4kt2JjodA)
 
 ---
 
@@ -54,9 +54,7 @@ The turret supports both **manual control** and **autonomous vision-based operat
 - Closed-loop control for stable tracking
 - End-to-end demonstration of detection, tracking, and actuation
 
-📹 Demo: `https://youtube.com/shorts/aBkurgwH2Bo`
-
----
+📹 [Watch Autonomous Tracking Demo](https://youtube.com/shorts/aBkurgwH2Bo)
 
 ## System Performance
 - Real-time tracking with stable servo response
@@ -75,6 +73,7 @@ The turret supports both **manual control** and **autonomous vision-based operat
 
 ### Hardware Setup
 Images of the physical setup, mounting, and turret structure are available
+
 
 
 
