@@ -42,7 +42,7 @@ The turret supports both **manual control** and **autonomous vision-based operat
 - Direct user control of turret movement
 - Used for calibration, testing, and safety validation
 
-📹 Demo: `Media/Videos/Manual_control_Demo.mp4`
+📹 Demo: `https://youtube.com/shorts/zR4kt2JjodA`
 
 ---
 
@@ -52,9 +52,9 @@ The turret supports both **manual control** and **autonomous vision-based operat
 - Closed-loop control for stable tracking
 - End-to-end demonstration of detection, tracking, and actuation
 
-📹 Demo: `Media/Videos/Vision_&_Fireing.mp4`
+📹 Demo: `https://youtube.com/shorts/aBkurgwH2Bo`
 
-📹 Demo: `Media/Videos/Autonomous_Turrent_Demo.mp4`
+📹 Demo: `https://youtu.be/QobdRKVzfLg`
 
 ---
 
@@ -75,4 +75,5 @@ The turret supports both **manual control** and **autonomous vision-based operat
 
 ### Hardware Setup
 Images of the physical setup, mounting, and turret structure are available
+
 
