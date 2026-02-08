@@ -77,6 +77,20 @@ The turret supports both **manual control** and **autonomous vision-based operat
 ### Hardware Setup
 Images of the physical setup, mounting, and turret structure are available
 
+---
+
+## Notes
+This repository focuses on **project documentation and system design**.  
+Source code is not publicly shared at this stage.
+
+---
+
+## Author
+**Pruthvi R**  
+Robotics & Embedded Systems Enthusiast
+
+
+
 
 
 
